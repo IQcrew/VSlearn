@@ -1,0 +1,8 @@
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe.config
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\bin\Debug\ConsoleApp30.pdb
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp30\ConsoleApp30\obj\Debug\ConsoleApp30.pdb

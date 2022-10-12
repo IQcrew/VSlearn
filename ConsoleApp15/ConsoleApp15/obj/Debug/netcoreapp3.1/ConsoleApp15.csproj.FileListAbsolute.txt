@@ -1,0 +1,14 @@
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.deps.json
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.json
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.runtimeconfig.dev.json
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.dll
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\netcoreapp3.1\ConsoleApp15.pdb
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.AssemblyInfo.cs
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.dll
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.pdb
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\netcoreapp3.1\ConsoleApp15.genruntimeconfig.cache

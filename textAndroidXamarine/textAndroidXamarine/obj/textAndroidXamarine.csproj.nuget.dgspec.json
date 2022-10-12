@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ToboLestGoIT\\source\\repos\\textAndroidXamarine\\textAndroidXamarine\\textAndroidXamarine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ToboLestGoIT\\source\\repos\\textAndroidXamarine\\textAndroidXamarine\\textAndroidXamarine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ToboLestGoIT\\source\\repos\\textAndroidXamarine\\textAndroidXamarine\\textAndroidXamarine.csproj",
+        "projectName": "textAndroidXamarine",
+        "projectPath": "C:\\Users\\ToboLestGoIT\\source\\repos\\textAndroidXamarine\\textAndroidXamarine\\textAndroidXamarine.csproj",
+        "packagesPath": "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ToboLestGoIT\\source\\repos\\textAndroidXamarine\\textAndroidXamarine\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ToboLestGoIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2515, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[2.3.0.759, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

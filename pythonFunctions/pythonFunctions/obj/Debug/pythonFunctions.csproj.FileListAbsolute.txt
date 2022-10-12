@@ -1,0 +1,3 @@
+C:\Users\ToboLestGoIT\source\repos\pythonFunctions\pythonFunctions\obj\Debug\pythonFunctions.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\pythonFunctions\pythonFunctions\obj\Debug\pythonFunctions.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\pythonFunctions\pythonFunctions\obj\Debug\pythonFunctions.csproj.CoreCompileInputs.cache

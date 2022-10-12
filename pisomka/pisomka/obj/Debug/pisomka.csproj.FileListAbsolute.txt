@@ -1,0 +1,11 @@
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.Form1.resources
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.Properties.Resources.resources
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.csproj.GenerateResource.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\bin\Debug\pisomka.exe.config
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\bin\Debug\pisomka.exe
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\bin\Debug\pisomka.pdb
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.exe
+C:\Users\ToboLestGoIT\source\repos\pisomka\pisomka\obj\Debug\pisomka.pdb

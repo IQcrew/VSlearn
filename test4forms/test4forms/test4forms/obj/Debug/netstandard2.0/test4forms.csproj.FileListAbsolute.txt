@@ -1,0 +1,15 @@
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\bin\Debug\netstandard2.0\test4forms.deps.json
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\bin\Debug\netstandard2.0\test4forms.dll
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\bin\Debug\netstandard2.0\test4forms.pdb
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.AssemblyInfoInputs.cache
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.AssemblyInfo.cs
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.dll
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\refint\test4forms.dll
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\test4forms.pdb
+C:\Users\ToboLestGoIT\source\repos\test4forms\test4forms\test4forms\obj\Debug\netstandard2.0\ref\test4forms.dll

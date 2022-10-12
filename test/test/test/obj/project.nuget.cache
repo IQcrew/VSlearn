@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9oPeKFf400YzkehsJWAT0vvH3l1Qz11Cmf659F4TgjcN56H0tFm7t1ygeRzrQX6TtHGdVTFv6hvy402d+KTEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ToboLestGoIT\\source\\repos\\test\\test\\test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\plugin.mediamanager\\1.1.1\\plugin.mediamanager.1.1.1.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512",
+    "C:\\Users\\ToboLestGoIT\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

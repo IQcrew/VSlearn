@@ -1,0 +1,11 @@
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\bin\Debug\pisomkaZaver.exe.config
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\bin\Debug\pisomkaZaver.exe
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\bin\Debug\pisomkaZaver.pdb
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.Properties.Resources.resources
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.csproj.GenerateResource.cache
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.exe
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.pdb
+C:\Users\ToboLestGoIT\source\repos\pisomkaZaver\pisomkaZaver\obj\Debug\pisomkaZaver.Form1.resources

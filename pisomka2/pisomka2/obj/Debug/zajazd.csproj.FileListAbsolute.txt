@@ -1,0 +1,11 @@
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\bin\Debug\pisomka2.exe.config
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\bin\Debug\pisomka2.exe
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\bin\Debug\pisomka2.pdb
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\zajazd.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\zajazd.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\pisomka2.Form1.resources
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\pisomka2.Properties.Resources.resources
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\zajazd.csproj.GenerateResource.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\zajazd.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\pisomka2.exe
+C:\Users\ToboLestGoIT\source\repos\pisomka2\pisomka2\obj\Debug\pisomka2.pdb

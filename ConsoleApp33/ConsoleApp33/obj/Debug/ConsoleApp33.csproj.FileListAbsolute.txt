@@ -1,0 +1,10 @@
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\ConsoleApp33.exe.config
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\ConsoleApp33.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\ConsoleApp33.pdb
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.pdb
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\itertools.dll
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.CopyComplete

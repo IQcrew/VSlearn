@@ -1,0 +1,14 @@
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\bin\Debug\netcoreapp3.1\hodina1.exe
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\bin\Debug\netcoreapp3.1\hodina1.deps.json
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\bin\Debug\netcoreapp3.1\hodina1.runtimeconfig.json
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\bin\Debug\netcoreapp3.1\hodina1.runtimeconfig.dev.json
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\bin\Debug\netcoreapp3.1\hodina1.dll
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\bin\Debug\netcoreapp3.1\hodina1.pdb
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.AssemblyInfoInputs.cache
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.AssemblyInfo.cs
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.dll
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.pdb
+C:\Users\ToboLestGoIT\source\repos\hodina1\hodina1\obj\Debug\netcoreapp3.1\hodina1.genruntimeconfig.cache

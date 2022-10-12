@@ -1,0 +1,4 @@
+﻿  piskorky.cpp
+C:\Users\ToboLestGoIT\source\repos\piskorky\piskorky\piskorky.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ToboLestGoIT\source\repos\piskorky\piskorky\piskorky.cpp(121,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  piskorky.vcxproj -> C:\Users\ToboLestGoIT\source\repos\piskorky\x64\Debug\piskorky.exe

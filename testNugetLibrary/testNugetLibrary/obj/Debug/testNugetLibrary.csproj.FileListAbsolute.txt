@@ -1,0 +1,6 @@
+C:\Users\ToboLestGoIT\source\repos\testNugetLibrary\testNugetLibrary\bin\Debug\testNugetLibrary.dll
+C:\Users\ToboLestGoIT\source\repos\testNugetLibrary\testNugetLibrary\bin\Debug\testNugetLibrary.pdb
+C:\Users\ToboLestGoIT\source\repos\testNugetLibrary\testNugetLibrary\obj\Debug\testNugetLibrary.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\testNugetLibrary\testNugetLibrary\obj\Debug\testNugetLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\testNugetLibrary\testNugetLibrary\obj\Debug\testNugetLibrary.dll
+C:\Users\ToboLestGoIT\source\repos\testNugetLibrary\testNugetLibrary\obj\Debug\testNugetLibrary.pdb

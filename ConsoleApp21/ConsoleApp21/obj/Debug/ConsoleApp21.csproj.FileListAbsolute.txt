@@ -1,0 +1,8 @@
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.SuggestedBindingRedirects.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\ToboLestGoIT\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
