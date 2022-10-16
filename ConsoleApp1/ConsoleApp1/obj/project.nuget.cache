@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "aM37WajreHKFvSnU0ayMaOhDOI+gtUxRl3NFPOSBtqz8loAyxc1suN9oMHSGPxLTs7J+jPlmH+VaacjvjSsbFA==",
+  "dgSpecHash": "VomsZPyPshytM2lhMVMIk3NUK5qABzc1PLp21h8lnum61AZs/5J0NOIlGrLyBmUeGSCSdwgnOMRDe0eg8xnEYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ToboLestGoIT\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\tobol\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\tobol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\tobol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tobol\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

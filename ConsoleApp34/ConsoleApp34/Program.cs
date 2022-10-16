@@ -10,18 +10,32 @@ namespace ConsoleApp34
     {
         static void Main(string[] args)
         {
-            char[] s = { 'a', 's', 'd' };
-            char[] c = new char[s.Length];
-            int x = 0;
-            for (int i = s.Length - 1; i >= 0; i--)
-            {
-                c[x] = s[i];
-                x++;
-            }
-            s = c;
-            Console.WriteLine(s);
-            Array.Reverse(s);
-            Console.WriteLine(s);
+            int[] idk = { 1, 7, 3, 8, 7, 9, 6, 3, 2, 7, 3, 2, 7, 32 };
+            Console.WriteLine(spocitajCisla(idk, 378));
+
+            string example = "4948A;;HO'J9";
+            Console.WriteLine(ibaPismena(example));
         }
+
+
+
+        static int spocitajCisla(int[] cisla, int hladaneCislo)
+        {
+            int res = 0;
+            foreach (int cislo in cisla){if(cislo == hladaneCislo) { res++; }}
+            return res;
+        } 
+        static string ibaPismena (string vstup)
+        {
+            string res = "";
+            foreach (char pismeno in vstup)
+            {
+                if (char.IsLetter(pismeno)) { res += pismeno.ToString(); }
+            }
+
+            return res;
+        }
+
+
     }
 }

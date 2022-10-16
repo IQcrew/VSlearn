@@ -1,8 +1,0 @@
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe.config
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.exe
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\bin\Debug\ConsoleApp23.pdb
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.AssemblyReference.cache
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.SuggestedBindingRedirects.cache
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.csproj.CoreCompileInputs.cache
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.exe
-C:\Users\ToboLestGoIT\source\repos\ConsoleApp23\ConsoleApp23\obj\Debug\ConsoleApp23.pdb
