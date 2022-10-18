@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7+/TybkMONl9Bo8lmIU1sjoB33qPsxohJwt45dke14q+I5TswabBbv1JMKsQwW/ajY83pBTfjE+iB5EX3Y01Q==",
+  "dgSpecHash": "Yio3E9RyFlEb7SSIxscXgeTVFA6LbC6UCeatEvOSyL2JXmNkuLNok1Wvzl6sp2mjmPVcO2v6ZAS3fU0Xgd2Veg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tobol\\source\\repos\\ConsoleApp4\\ConsoleApp4\\ConsoleApp4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tobol\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
   "logs": []
 }
