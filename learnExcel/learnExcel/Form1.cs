@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ExcelDataReader;
+using Microsoft.Office.Interop.Excel;
 
 namespace learnExcel
 {
@@ -31,12 +32,25 @@ namespace learnExcel
         {
 
 
-            DataTable dt = result.Tables[0];
+
             
-            string text = dt.Rows[1][0].ToString();
-            dt.Rows[1][0] = "wow";
-            textBox1.Text = text;
-            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+            string saveFile = @"C:\Users\tobol\Downloads\testWrite.xlsx";
+            Microsoft.Office.Interop.Excel.Application excelAPP = new Microsoft.Office.Interop.Excel.Application();
+            Workbook wb;
+            Worksheet ws;
+            wb = excelAPP.Workbooks.Add();
+            ws = wb.Worksheets[1];
+            ws.Columns["A"].ColumnWidth = 50;
+            ws.Cells[1,1] = "test";
+            wb.SaveAs(saveFile);
+            wb.Close();
+
+
         }
     }
 }

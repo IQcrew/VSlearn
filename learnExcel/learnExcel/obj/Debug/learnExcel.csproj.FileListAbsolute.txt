@@ -22,3 +22,4 @@ C:\Users\tobol\source\repos\learnExcel\learnExcel\bin\Debug\EPPlus.System.Drawin
 C:\Users\tobol\source\repos\learnExcel\learnExcel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
 C:\Users\tobol\source\repos\learnExcel\learnExcel\bin\Debug\EPPlus.xml
 C:\Users\tobol\source\repos\learnExcel\learnExcel\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\tobol\source\repos\learnExcel\learnExcel\obj\Debug\learnExcel.csproj.ResolveComReference.cache
