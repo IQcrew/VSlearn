@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ExcelDataReader;
-using Microsoft.Office.Interop.Excel;
+using OfficeOpenXml;
 
 namespace learnExcel
 {
@@ -23,8 +23,9 @@ namespace learnExcel
             stream = File.Open(@"C:\Users\tobol\Downloads\Zošit 1.xlsx", FileMode.Open, FileAccess.Read);
             IExcelDataReader excelReader = ExcelReaderFactory.CreateOpenXmlReader(stream);
             result = excelReader.AsDataSet();
-            
-
+            ExcelPackage.LicenseContext = OfficeOpenXml.LicenseContext.NonCommercial;
+            saveFileDialog1.Filter = "Data Files (*.xlsx)|*.xlsx";
+            saveFileDialog1.AddExtension = true;
         }
 
 
@@ -39,18 +40,29 @@ namespace learnExcel
         private void button2_Click(object sender, EventArgs e)
         {
 
-            string saveFile = @"C:\Users\tobol\Downloads\testWrite.xlsx";
-            Microsoft.Office.Interop.Excel.Application excelAPP = new Microsoft.Office.Interop.Excel.Application();
-            Workbook wb;
-            Worksheet ws;
-            wb = excelAPP.Workbooks.Add();
-            ws = wb.Worksheets[1];
-            ws.Columns["A"].ColumnWidth = 50;
-            ws.Cells[1,1] = "test";
-            wb.SaveAs(saveFile);
-            wb.Close();
+            //string saveFile = @"C:\Users\tobol\Downloads\testWrite.xlsx";
+            //Microsoft.Office.Interop.Excel.Application excelAPP = new Microsoft.Office.Interop.Excel.Application();
+            //Workbook wb;
+            //Worksheet ws;
+            //wb = excelAPP.Workbooks.Add();
+            //ws = wb.Worksheets[1];
+            //ws.Columns["A"].ColumnWidth = 50;
+            //ws.Cells[1,1] = "test";
+            //wb.SaveAs(saveFile);
+            //wb.Close();
 
 
+
+
+            var package = new ExcelPackage();
+
+
+            var wb = package.Workbook;
+            wb.Worksheets.Add("prva");
+            var ws = wb.Worksheets[1];
+            ws.Cells[1,1].Value = "ahoj";
+            saveFileDialog1.ShowDialog();
+            package.SaveAs(saveFileDialog1.FileName);
         }
     }
 }
